@@ -1,5 +1,5 @@
 import React from "react";
-import headshot from "../../Hunter3.jpg";
+import headshot from "../../Hunter3.opt.jpg";
 import Bio from "../Bio/Bio";
 import Projects from "../Projects/Projects";
 import Tech from "../Tech/Tech";
